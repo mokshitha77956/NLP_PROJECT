@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Smart Study Assistant - Exam Revision Summarizer",
+  "description": "An intelligent text summarization system designed for students to transform lengthy lessons into concise, exam-oriented revision notes using Gemini AI.",
+  "requestFramePermissions": []
+}
